@@ -1,0 +1,30 @@
+@media (max-width: 640px) {
+  .banner{
+    
+    width:650px;
+    height: auto;
+
+    
+  }
+  .banner2{
+   
+    width:6550px;
+    height: auto;
+
+    
+  }
+  .banner3{
+   
+    width: 650px;
+    height: auto;
+
+    
+  }
+  .banner4{
+   
+    width: 650px;
+    height: auto;
+
+    
+  }
+}

@@ -1,0 +1,31 @@
+.banner {
+  background-image: url(./images/banner1.png);
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  width: 1200px;
+  height: auto;
+}
+
+.banner2 {
+  background-image: url(./images/banner2.png);
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  width: 1200px;
+  height: 700px;
+}
+
+.banner3 {
+  background-image: url(./images/banner3.png);
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  width: 1200px;
+  height: 700px;
+}
+
+.banner4 {
+  background-image: url(./images/banner4.png);
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  width: 1200px;
+  height: 700px;
+}
